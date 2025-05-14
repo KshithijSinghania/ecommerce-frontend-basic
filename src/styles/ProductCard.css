@@ -1,0 +1,23 @@
+.product-card {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 1rem;
+  transition: box-shadow 0.3s;
+}
+
+.product-card img {
+  width: 100%;
+  height: 200px;            /* or auto if aspect ratio matters */
+  object-fit: contain;      /* key change */
+  border-radius: 6px;
+  background: #f9f9f9;
+}
+
+.product-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.product-card h2 {
+  font-size: 1.1rem;
+  margin-bottom: 0.3rem;
+}
