@@ -28,5 +28,5 @@ A responsive and modern eCommerce frontend built with **React.js**. It includes 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ecommerce-frontend.git
+git clone https://github.com/YOUR_USERNAME/ecommerce-frontend.git](https://github.com/KshithijSinghania/ecommerce-frontend-basic.git)
 cd ecommerce-frontend
